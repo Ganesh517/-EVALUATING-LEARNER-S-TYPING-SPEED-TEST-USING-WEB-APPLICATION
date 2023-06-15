@@ -1,12 +1,14 @@
 # -EVALUATING-LEARNER-S-TYPING-SPEED-TEST-USING-WEB-APPLICATION
 ## Objective
+1.For professional typists or young school children, good typing habits can mean the difference between success and failure. 
+2.Your goal is to type the test’s story text as quickly and as accurately as possible.
+3.Once you have typed all characters or the time is completed,then it will display the result.  you can click on the try again button to reset the game and play again.
+4.At the end of a round, the user is prompted to indicate whether he/she wants to play again. 
 
 
 ## Abstract
 This research aims to design and create media applications that will be used to train the speed and accuracy of typing. Lack of instructional media typing speed appropriate to the circumstances in the classroom was the background of this research. 
 An application as the research results has main features: the study materials, practice typing, and data management, which each function is executed by the user level use.
-![image](https://github.com/Ganesh517/-EVALUATING-LEARNER-S-TYPING-SPEED-TEST-USING-WEB-APPLICATION/assets/75235006/23faf6f2-052d-4692-8809-37c77aef2355)
-
 
 ## Methodology
 
@@ -17,7 +19,7 @@ An application as the research results has main features: the study materials, p
 
 ![Picture1](https://github.com/Ganesh517/-EVALUATING-LEARNER-S-TYPING-SPEED-TEST-USING-WEB-APPLICATION/assets/75235006/baad4f24-7309-41d5-b073-7bf58d68e971)
 
-### YoloV8 output and GroundingDINO output:
+### output:
 
 
 
